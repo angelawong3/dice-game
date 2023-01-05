@@ -1,0 +1,15 @@
+/Users/kk/Projects/Dice_Game/Dice_Game/bin/Debug/net6.0/Dice_Game
+/Users/kk/Projects/Dice_Game/Dice_Game/bin/Debug/net6.0/Dice_Game.deps.json
+/Users/kk/Projects/Dice_Game/Dice_Game/bin/Debug/net6.0/Dice_Game.runtimeconfig.json
+/Users/kk/Projects/Dice_Game/Dice_Game/bin/Debug/net6.0/Dice_Game.dll
+/Users/kk/Projects/Dice_Game/Dice_Game/bin/Debug/net6.0/Dice_Game.pdb
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.csproj.AssemblyReference.cache
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.AssemblyInfoInputs.cache
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.AssemblyInfo.cs
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.csproj.CoreCompileInputs.cache
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.dll
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/refint/Dice_Game.dll
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.pdb
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/Dice_Game.genruntimeconfig.cache
+/Users/kk/Projects/Dice_Game/Dice_Game/obj/Debug/net6.0/ref/Dice_Game.dll
